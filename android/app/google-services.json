@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "500878566916",
+    "firebase_url": "https://smart-card-system-f1da1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-card-system-f1da1",
+    "storage_bucket": "smart-card-system-f1da1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500878566916:android:c7732d39e8ecee06bab751",
+        "android_client_info": {
+          "package_name": "com.example.smart_card_app_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500878566916-jfqopsag355osotoklkb8hfgaje37k44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_card_app_driver",
+            "certificate_hash": "c44b60a8018c97ac2729179d6ecca324d32ca5a5"
+          }
+        },
+        {
+          "client_id": "500878566916-1k5sq2h6mo5p7u6su4po7ic572un8mlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOyoy73PNpub86fALIhdgqgl8KoRHI8kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500878566916-1k5sq2h6mo5p7u6su4po7ic572un8mlu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "500878566916-4g5abfh7dfk45r7rv2b9jucmf7058fkc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartCardAppDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500878566916:android:b8dc340a6dc3ff44bab751",
+        "android_client_info": {
+          "package_name": "com.example.smart_card_app_passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500878566916-5f40lhi04579k367ac05de0qicrvcip4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_card_app_passenger",
+            "certificate_hash": "c44b60a8018c97ac2729179d6ecca324d32ca5a5"
+          }
+        },
+        {
+          "client_id": "500878566916-1k5sq2h6mo5p7u6su4po7ic572un8mlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOyoy73PNpub86fALIhdgqgl8KoRHI8kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500878566916-1k5sq2h6mo5p7u6su4po7ic572un8mlu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "500878566916-4g5abfh7dfk45r7rv2b9jucmf7058fkc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartCardAppDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
