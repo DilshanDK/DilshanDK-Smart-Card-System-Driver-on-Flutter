@@ -34,7 +34,7 @@ class BluetoothService extends ChangeNotifier {
   final Map<String, double> _routeCostCache = {};
   
   // Your OpenRouteService API key
-  final String _openRouteServiceApiKey = '5b3ce3597851110001cf62487871ef21d79ae69eb50d7dac820cb128c479b6513d7d159fad21ed94';
+  final String _openRouteServiceApiKey = 'eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImRhMmI5ODFkNWM3MzliYTQ0Mjk1MDJjZDRiMDA5MjMzN2I0MzBjYWU2OGUyMjU1YjBiOTVmNmNlIiwiaCI6Im11cm11cjY0In0=';
   
   // Cache to store journey start times for elapsed time calculation
   final Map<String, DateTime> _journeyStartTimes = {};

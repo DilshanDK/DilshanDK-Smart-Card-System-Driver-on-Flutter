@@ -31,7 +31,7 @@ class _LiveLocationPageState extends State<LiveLocationPage> with AutomaticKeepA
   List<Map<String, dynamic>> _busRoutes = [];
   bool _locationPermissionGranted = false;
   final _locationService = loc.Location();
-  final String _orsApiKey = '5b3ce3597851110001cf62489fd877cac28a1d5e0cf6c210efe6f0ab7e2dedd65568cc1cbff91af5';
+  final String _orsApiKey = 'eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImRhMmI5ODFkNWM3MzliYTQ0Mjk1MDJjZDRiMDA5MjMzN2I0MzBjYWU2OGUyMjU1YjBiOTVmNmNlIiwiaCI6Im11cm11cjY0In0=';
   GoogleMapController? _mapController;
   Timer? _blinkTimer;
   bool _showDriverMarker = true;
